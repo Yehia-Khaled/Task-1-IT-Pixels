@@ -1,5 +1,9 @@
 Resources
 /*.pptx
 test gitignore
+<<<<<<< HEAD
 .idea
 Portofolio/portfolio-master/*
+=======
+.idea
+>>>>>>> origin/master
