@@ -1,0 +1,22 @@
+Create a Portfolio using HTML, CSS and Bootstrap | 2020
+https://www.youtube.com/watch?v=FVRfM-2Q4JQ
+
+Introduction to bootstrab 4.5
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+Learn JavaScript - Full Course for Beginners
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+CSS Tutorial
+https://www.w3schools.com/css/default.asp
+
+List of "inline" elements
+https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#elements
+
+
+Elements
+https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#elements
+
+A re-introduction to JavaScript (JS tutorial)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
