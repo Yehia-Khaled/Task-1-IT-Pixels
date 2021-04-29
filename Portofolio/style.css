@@ -42,3 +42,11 @@ body {
 .main-row h1{
     font-size: 5rem;
 }
+
+#about{
+    background: #313552;
+}
+
+#about{
+    border-radius: 0.5rem;
+}
