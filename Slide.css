@@ -9,3 +9,34 @@ td, th {
     text-align: left;
     padding: 8px;
 }
+
+.container-test{
+    /*
+    font-style: oblique;
+    */
+    border-radius: 0.5rem  ;
+    border: solid 2pt #f5ba09;
+    font-family: Algerian, serif;
+    /*
+    font-weight: bold;
+    */
+    height: 4rem;
+    width: 40rem;
+    text-align: left;
+    text-decoration: aqua;
+    font-size: larger;
+    color: #313552;
+    line-break: loose;
+    text-shadow: red;
+    /*
+    background-color: cornflowerblue;
+    */
+    backdrop-filter: blur(20rem);
+    background-image: linear-gradient(greenyellow,cyan);
+    /*background-size: cover;*/
+    background-repeat:repeat-y;
+    cursor: crosshair;
+    margin: 100px 200px 50px 2px;
+    /*padding: 10px 200px 50px 2px;*/
+
+}
