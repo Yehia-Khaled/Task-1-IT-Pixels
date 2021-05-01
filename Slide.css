@@ -91,4 +91,63 @@ h1{
     background-color: yellow;
 }
 
+/* Overflow */
+.container-overflow{
+    border: rebeccapurple dashed 2px;
+    width: 825px;
+    height: 200px;
+    display: flex;
 
+}
+
+.container-scroll {
+    padding: 15px;
+    border: 2px solid red;
+    margin: 10px;
+
+}
+.scroll{
+    overflow: scroll;
+    width: 150px;
+    height: 90px;
+}
+
+.container-visible{
+    padding: 15px;
+    border: 2px solid blueviolet;
+    margin: 10px;
+
+}
+.visible{
+    overflow: visible;
+    width: 150px;
+    height: 90px;
+}
+
+.container-hidden{
+    padding: 15px;
+    border: 2px solid greenyellow;
+    margin: 10px;
+}
+
+.hidden{
+    overflow: hidden;
+    width: 150px;
+    height: 90px;
+}
+
+.container-auto{
+    padding: 15px;
+    border: 2px solid  navajowhite;
+    margin: 10px;
+}
+
+.auto{
+    overflow: auto;
+    width: 150px;
+    height: 90px;
+}
+
+#hover:active{
+color: blue;
+}
