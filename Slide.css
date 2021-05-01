@@ -40,3 +40,55 @@ td, th {
     /*padding: 10px 200px 50px 2px;*/
 
 }
+/* practice 2.1 */
+.btn{
+    background-color: green;
+}
+h1{
+    color: yellow;
+}
+.container-prac2\.1{
+    text-align: center;
+}
+.container{
+    border: solid 10px #313552;
+}
+
+#inline-element{
+    border: solid 10px #313552;
+}
+#inline-element1{
+    border: solid 10px #313552;
+}
+/* Flex box*/
+.box{
+    width: 800px;
+    /*height: 100px;*/
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    /*float:right;*/
+     display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+.box div{
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+
