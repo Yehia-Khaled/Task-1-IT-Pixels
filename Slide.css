@@ -62,16 +62,20 @@ h1{
 }
 /* Flex box*/
 .box{
-    width: 800px;
+    /*width: 800px;*/
     /*height: 100px;*/
+
     text-align: center;
-    font-size: 30px;
-    font-weight: bold;
-    font-family: sans-serif;
-    /*float:right;*/
-     display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
+    text-decoration: overline;
+    color: red;
+    font-size:15rem;
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*font-family: sans-serif;*/
+    /*!*float:right;*!*/
+    /* display: flex;*/
+    /*flex-direction: row-reverse;*/
+    /*flex-wrap: wrap;*/
 }
 
 .box div{
