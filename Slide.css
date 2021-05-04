@@ -62,37 +62,60 @@ h1{
 }
 /* Flex box*/
 .box{
-    /*width: 800px;*/
-    /*height: 100px;*/
-
     text-align: center;
-    text-decoration: overline;
-    color: red;
-    font-size:15rem;
+    width: 200px;
+    height: 200px;
+/*    !*text-decoration: overline;*!
+    font-size:40px;
+    color: darkslateblue;
+    !*line-height: 150px;*!
+    !*text-shadow: 5px 2px mediumvioletred;*!
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman", serif;
+    !*width: 800px;*!
+    height: 880px;
+    background-color: cornflowerblue;
+    background-image: url("image.jpg");
+    background-position: center;
+    background-size: 1366px;
+    background-repeat: no-repeat;*/
+
+
     /*font-size: 30px;*/
-    /*font-weight: bold;*/
+
     /*font-family: sans-serif;*/
-    /*!*float:right;*!*/
-    /* display: flex;*/
-    /*flex-direction: row-reverse;*/
-    /*flex-wrap: wrap;*/
+    /*float:right;*/
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    flex-flow:row-reverse wrap;
+    justify-content:flex-start;
+    align-items: flex-end;
+
 }
 
 .box div{
-    width: 150px;
-    height: 150px;
-    padding: 50px;
+    width: 50px;
+    height: 50px;
+    /*padding: 50px;*/
 }
 .red{
     background-color: red;
+
+
 }
 
 .green{
     background-color: green;
+
+
 }
 
 .yellow{
     background-color: yellow;
+
+
 }
 
 /* Overflow */
